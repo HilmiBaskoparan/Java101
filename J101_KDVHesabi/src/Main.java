@@ -28,9 +28,5 @@ public class Main {
         System.out.println("KDV Oranı     : %" + kdvOran * 100);
         System.out.println("KDV Tutarı    : " + kdvTutar);
         System.out.println("KDV'li Tutar  : " + kdvliTutar);
-        
-        
-        
-    }
-    
+    } 
 }
